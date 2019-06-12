@@ -1,0 +1,5 @@
+letters = ['a', 'b', 'c']
+print("Letter #1 is", letters[0])
+print("Letter #2 is", letters[1])
+print("Letter #3 is", letters[2])
+print("Letter #4 is", letters[3])
